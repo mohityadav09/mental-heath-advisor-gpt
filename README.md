@@ -1,7 +1,7 @@
 
 # Mental Health Advisor GPT
 
-This project involves the fine-tuning of the `[Mistral-7B-Instruct-v0.2-GPTQ](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GPTQ)` large language model using Quantized Low-Rank Adaptation (QLoRA) techniques on the `mental_health_counseling_conversations conversations` dataset. The goal is to enhance the model's ability to generate contextually appropriate and empathetic responses in mental health counseling scenarios.
+This project involves the fine-tuning of the [Mistral-7B-Instruct-v0.2-GPTQ](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GPTQ) large language model using Quantized Low-Rank Adaptation (QLoRA) techniques on the [mental_health_counseling_conversations conversations](https://huggingface.co/datasets/Amod/mental_health_counseling_conversations) dataset. The goal is to enhance the model's ability to generate contextually appropriate and empathetic responses in mental health counseling scenarios.
 
 ## Project Overview
 
